@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/anttiahola
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://korpisofta.fi
+  * I am anttiahola (https://keybase.io/anttiahola) on keybase.
+  * I have a public key ASCxhkteWRxBU-ioAlRDvgVDj_8guch60TbZgwL89eh0Owo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fcf36cb7d9a601012d830f5b89dadefa2364a79241c32b87401f7ff6531ac7040a",
+      "host": "keybase.io",
+      "kid": "0120b1864b5e591c4153e8a8025443be05438fff20b9c87ad136d98302fcf5e8743b0a",
+      "uid": "905b27fd6ed812fc8bd741e350b24519",
+      "username": "anttiahola"
+    },
+    "merkle_root": {
+      "ctime": 1569133050,
+      "hash": "0f577188a31880e0f06f9e1886e5c9a5854ef673b36d2ca254df0d13d7396531b34a64673b05b1560b2885fe6c2ab6d622429db377399ffaab8fdd332d03618b",
+      "hash_meta": "1266648b6d95187dd01ca904d1fb0aba921249f94c6f61640150bb63b8f21151",
+      "seqno": 7679547
+    },
+    "service": {
+      "entropy": "boK7D/k1+0TVMhJAstkVaV8b",
+      "hostname": "korpisofta.fi",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1569133062,
+  "expire_in": 504576000,
+  "prev": "51c940e0d673db11cfadc5761719e1a1712c4fd2bd2c77e2871cded1f4af0c11",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsYZLXlkcQVPoqAJUQ74FQ4//ILnIetE22YMC/PXodDsKp3BheWxvYWTESpcCFsQgUclA4NZz2xHPrcV2FxnhoXEsT9K9LHfihxze0fSvDBHEIJVxD8tAZHcyDbtC+6BO+eiwhauLQTp0VwJ7VL/D2FzoAgHCo3NpZ8RAbRvjMUzQNVcQJ1NkuvvikBpdXywMqI79zWxiS6CAri74ga7yf0NzIRelUZQiv0JN7F0JHw6Np5S2TeKr4x2lA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIl0IzlAbgBUoBaJ6/F58+S6gQecAbO3q9wMZW7qZhRqo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/anttiahola
+
+==================================================================
