@@ -1,0 +1,5 @@
+# CloudFront distribution config files (temporary)
+dist-config*.json
+
+# CloudFront function test event file (temporary)
+test-event.json
